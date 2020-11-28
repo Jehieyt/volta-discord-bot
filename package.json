@@ -1,0 +1,14 @@
+{
+  "name": "volta",
+  "version": "1.0.0",
+  "description": "bot discord",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "jehie",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
